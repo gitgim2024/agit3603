@@ -12,5 +12,11 @@ public class YoungController {
 		
 		return "youngview";
 	}
+	@RequestMapping("/youngview2")
+	public String youngview2() {
+		
+		
+		return "youngview2";
+	}
 	
 }

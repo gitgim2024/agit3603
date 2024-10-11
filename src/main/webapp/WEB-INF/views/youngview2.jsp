@@ -8,9 +8,8 @@
 </head>
 <body>
 
-<h2>youngview</h2>
-<hr />
-
-내용추가
+<h1>youngview2</h1>
+asdasdasd
+asdasdasd
 </body>
 </html>
